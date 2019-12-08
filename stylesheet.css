@@ -19,8 +19,8 @@ p{
 }
 
 img {
-	width: 100%;
-	height: auto;
+	width:50%;
+	height: 10%;
 }
 
 		
@@ -30,8 +30,13 @@ img {
 	 display: block;
 	 margin-left: auto;
 	 margin-right: auto;
-	 width: 90%;
-	
+	 width: 50%;
+	border-style: solid;
+	border-top: 70%;
+	border-left: 70%;
+	border-right: 70%
+	border-bottom:70%;
+	border-color: black;
 }
 
 img {
