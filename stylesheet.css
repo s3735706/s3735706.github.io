@@ -37,7 +37,7 @@ img{
 		 margin-right: auto;
 	 	 width: 60%;
 	 	 
-	 	 border-style: double;
+	 	 border-style: outset;
 	 	 border-right: 50%;
 	 	 border-style: 50%;
 	 	 border-top: 50%;
@@ -61,7 +61,7 @@ img{
 	 margin-right: auto;
 	 margin-left: auto;
 	 
-	 border-style: double;
+	 border-style: outset;
 	 border-right: 50%;
 	 border-top: 50%;
 	 border-left: 50%;
@@ -85,7 +85,7 @@ img{
 		margin-left: auto;
 		margin-right: auto;
 		
-		border-style: double;
+		border-style: outset;
 		border-right: 50%;
 		border-left:  50%;
 		border-top:   50%;
@@ -108,7 +108,7 @@ img{
 		margin-left: auto;
 		margin-right: auto;
 		
-		border-style: double;
+		border-style: outset;
 		border-right: 50%;
 		border-left:  50%;
 		border-top:   50%;
@@ -131,7 +131,7 @@ img{
 		margin-left: auto;
 		margin-right: auto;
 
-	    border-style: double;
+	    border-style: outset;
 		border-right: 50%;
 		border-left:  50%;
 		border-top:   50%;
@@ -155,7 +155,7 @@ img{
 		margin-left: auto;
 		margin-right: auto;
 		
-		border-style: double;
+		border-style: outset;
 		border-right: 50%;
 		border-left:  50%;
 		border-top:   50%;
