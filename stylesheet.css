@@ -31,12 +31,7 @@ img {
 	 margin-left: auto;
 	 margin-right: auto;
 	 width: 50%;
-	border-style: solid;
-	border-top: 70%;
-	border-left: 70%;
-	border-right: 70%
-	border-bottom:70%;
-	border-color: black;
+	
 }
 
 img {
@@ -49,40 +44,37 @@ img {
 	 width: 20%;
 	 margin-right: auto;
 	 margin-left: auto;
-	 border-style: solid;
-	 border-left: 30%;
-	 border-right:30%;
-	 border-bottom: 30%;
-	 border-top:30%;
-	 border-color: black;
+	 
 }
 
 
 img{
 	width: 40%;
-	height:20%;
+	height:auto;
 }
 
-		
-		
-}
 .learn{
 
 		width: 40%
-		height: 20%;
-
+		height: auto;
+		
+}
+		
+}
 		
 }
 .learning{
 
 		width: 40%;
-		height:20%;
+		height:auto;
+		
+}
 
 		
 }
 .creative{
 			width: 40%;
-			height: 20%;
+			height: auto;
 
 			
 }
