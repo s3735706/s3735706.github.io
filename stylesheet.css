@@ -150,7 +150,7 @@ img{
 
 
 .medium2{
-		width: 40%
+		width: 40%;
 		height:auto;
 		margin-left: auto;
 		margin-right: auto;
@@ -160,6 +160,26 @@ img{
 		border-left:  50%;
 		border-top:   50%;
 		border-bottom: 50%;
-		border-color: black;
+		border-color: black;		
 		
+}
+
+img{
+	width: 40%;
+	height: auto;
+}
+
+
+.statistics{
+		width: 40%;
+		height: auto;
+		margin-left: auto;
+		margin-right: auto;
+
+		border-style: outset;
+		border-right: 50%;
+		border-left:  50%;
+		border-top:   50%;
+		border-bottom: 50%;
+		border-color: black;
 }
