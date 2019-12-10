@@ -12,7 +12,7 @@ h1{
 	color: black;
 	text-align: center;
 	margin-left: 15%;
-	margin-right: 25%;
+	margin-right: 35%;
 
 
 
@@ -21,7 +21,7 @@ h1{
 h2{
 	color: black;
 	text-align: center;
-	margin-left: 20%;
+	margin-left: 10%;
 	margin-right:25%;
 	text-align: left;
 }
@@ -31,14 +31,14 @@ h3{
 	color: black;
 	text-align:center;
 	margin-left: 15%;
-	margin-right: 25%;
+	margin-right: 35%;
 	font-family: arial;
 }	
 
 p{
 	font-family: arial;
 	text-align: center;
-	margin-left: 20%;
+	margin-left: 10%;
 	margin-right: 25%;
 	font-size: medium;
 	text-align: left;
@@ -47,9 +47,9 @@ p{
 
 a{
 	text-align: left;
-	margin-left: 20%;
-	margin-right: 20%;
-	font-size:xx-small;
+	margin-left: 10%;
+	margin-right: 25%;
+	font-size:medium;
 	text-align: center;
 	
 }
@@ -58,16 +58,16 @@ a{
 img{
 	width: 20%;
 	height: 10%;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 10%;
+	margin-right: 25%;
 }	
 
 
 
 .center {
 	 	 display: block;
-		 margin-left: 22%;
-		 margin-right: 22%;
+		 margin-left: 15%;
+		 margin-right: 10%;
 	 	 width: 50%;
 	 	 border-style: outset;
 	 	 border-right: 50%;
@@ -91,8 +91,8 @@ img{
 	 display: block;
 	 width: 20%;
 	 height: 20%;	
-	 margin-right: 25%;
-	 margin-left: 20%;
+	 margin-right: 10%;
+	 margin-left: 10%;
 	 
 	 border-style: outset;
 	 border-right: 50%;
@@ -116,8 +116,8 @@ img{
 
 		display: block;
 		width: 30%;
-		margin-left: 20%;
-		margin-right: 25%;
+		margin-left: 10%;
+		margin-right: 10%;
 		
 		border-style: outset;
 		border-right: 50%;
@@ -140,8 +140,8 @@ img{
 		display: block;
 		width: 30%;
 		height: 20%;
-		margin-left: 20%;
-		margin-right: 25%;
+		margin-left: 10%;
+		margin-right: 10%;
 		
 		border-style: outset;
 		border-right: 50%;
@@ -166,8 +166,8 @@ img{
 		display: block;
 		width: 25%;
 		height: 20%;
-		margin-left: 20%;
-		margin-right: 25%;
+		margin-left: 10%;
+		margin-right: 10%;
 
 	    border-style: outset;
 		border-right: 50%;
@@ -190,8 +190,8 @@ img{
 		display: block;
 		width: 20%;
 		height:20%;
-		margin-left: 20%;
-		margin-right:25%;
+		margin-left: 10%;
+		margin-right:10%;
 		border-style: outset;
 		border-left: 50%;
 		border-bottom: 50%;
@@ -213,8 +213,8 @@ img{
 		display: block;
 		width: 30%;
 		height: 30%;
-		margin-left: 20%;
-		margin-right: 25%;
+		margin-left: 10%;
+		margin-right: 15%;
 
 		border-style: outset;
 		border-right: 50%;
