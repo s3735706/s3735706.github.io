@@ -11,8 +11,8 @@ body {
 h1{
 	color: black;
 	text-align: center;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 15%;
+	margin-right: 25%;
 
 
 
@@ -21,7 +21,7 @@ h1{
 h2{
 	color: black;
 	text-align: center;
-	margin-left: 25%;
+	margin-left: 20%;
 	margin-right:25%;
 	text-align: left;
 }
@@ -30,7 +30,7 @@ h2{
 h3{
 	color: black;
 	text-align:center;
-	margin-left: 25%;
+	margin-left: 15%;
 	margin-right: 25%;
 	font-family: arial;
 }	
@@ -38,7 +38,7 @@ h3{
 p{
 	font-family: arial;
 	text-align: center;
-	margin-left: 25%;
+	margin-left: 20%;
 	margin-right: 25%;
 	font-size: medium;
 	text-align: left;
@@ -47,9 +47,10 @@ p{
 
 a{
 	text-align: left;
-	margin-left: 23%;
-	margin-right: 23%;
-	font-size: small;
+	margin-left: 20%;
+	margin-right: 25%;
+	font-size: medium;
+	text-align: center;
 	
 }
 
@@ -65,8 +66,8 @@ img{
 
 .center {
 	 	 display: block;
-		 margin-left: 25%;
-		 margin-right: 25%;
+		 margin-left: 22%;
+		 margin-right: 22%;
 	 	 width: 50%;
 	 	 border-style: outset;
 	 	 border-right: 50%;
@@ -91,7 +92,7 @@ img{
 	 width: 20%;
 	 height: 20%;	
 	 margin-right: 25%;
-	 margin-left: 25%;
+	 margin-left: 20%;
 	 
 	 border-style: outset;
 	 border-right: 50%;
@@ -115,7 +116,7 @@ img{
 
 		display: block;
 		width: 30%;
-		margin-left: 25%;
+		margin-left: 20%;
 		margin-right: 25%;
 		
 		border-style: outset;
@@ -139,7 +140,7 @@ img{
 		display: block;
 		width: 30%;
 		height: 20%;
-		margin-left: 25%;
+		margin-left: 20%;
 		margin-right: 25%;
 		
 		border-style: outset;
@@ -165,7 +166,7 @@ img{
 		display: block;
 		width: 25%;
 		height: 20%;
-		margin-left: 25%;
+		margin-left: 20%;
 		margin-right: 25%;
 
 	    border-style: outset;
@@ -189,7 +190,7 @@ img{
 		display: block;
 		width: 20%;
 		height:20%;
-		margin-left: 25%;
+		margin-left: 20%;
 		margin-right:25%;
 		border-style: outset;
 		border-left: 50%;
@@ -212,7 +213,7 @@ img{
 		display: block;
 		width: 30%;
 		height: 30%;
-		margin-left: 25%;
+		margin-left: 20%;
 		margin-right: 25%;
 
 		border-style: outset;
