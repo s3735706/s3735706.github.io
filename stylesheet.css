@@ -1,15 +1,18 @@
 body {
-
-	background-color: gainsboro;
-
+	background: rgb(2,0,36);
+	background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,97,0.465721322708771) 35%, rgba(0,212,255,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,97,0.465721322708771) 35%, rgba(0,212,255,1) 100%);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,97,0.465721322708771) 35%, rgba(0,212,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
+    
 }
 
 
 h1{
 	color: black;
 	text-align: center;
-	margin-left: 25%;
-	margin-right: 25%;
+	margin-left: 20%;
+	margin-right: 20%;
 
 
 
@@ -20,7 +23,9 @@ h2{
 	text-align: center;
 	margin-left: 25%;
 	margin-right:25%;
+	text-align: left;
 }
+
 
 h3{
 	color: black;
@@ -41,28 +46,28 @@ p{
 
 
 a{
-	text-align: center;
+	text-align: left;
 	margin-left: 30%;
 	margin-right: 30%;
 	font-size: small;
+	
 }
 
 
 img{
-	width: 30%;
-	height: 20%;
-	margin-left: auto;
-	margin-right: auto;
+	width: 20%;
+	height: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
 }	
 
 
 
 .center {
 	 	 display: block;
-		 margin-left: auto;
-		 margin-right: auto;
-	 	 width: 60%;
-	 	 
+		 margin-left: 25%;
+		 margin-right: 25%;
+	 	 width: 50%;
 	 	 border-style: outset;
 	 	 border-right: 50%;
 	 	 border-style: 50%;
@@ -83,10 +88,10 @@ img{
 	
 .middle	{
 	 display: block;
-	 width: 30%;
-	 height: 30%;	
-	 margin-right: auto;
-	 margin-left: auto;
+	 width: 20%;
+	 height: 20%;	
+	 margin-right: 25%;
+	 margin-left: 25%;
 	 
 	 border-style: outset;
 	 border-right: 50%;
@@ -109,9 +114,9 @@ img{
 .learning{
 
 		display: block;
-		width: 40%;
-		margin-left: auto;
-		margin-right: auto;
+		width: 30%;
+		margin-left: 25%;
+		margin-right: 25%;
 		
 		border-style: outset;
 		border-right: 50%;
@@ -132,10 +137,10 @@ img{
 
 .creative{
 		display: block;
-		width: 40%;
-		height: auto;
-		margin-left: auto;
-		margin-right: auto;
+		width: 30%;
+		height: 20%;
+		margin-left: 25%;
+		margin-right: 25%;
 		
 		border-style: outset;
 		border-right: 50%;
@@ -158,10 +163,10 @@ img{
 
 .learn{
 		display: block;
-		width: 40%;
-		height: auto;
-		margin-left: auto;
-		margin-right: auto;
+		width: 25%;
+		height: 20%;
+		margin-left: 25%;
+		margin-right: 25%;
 
 	    border-style: outset;
 		border-right: 50%;
@@ -175,17 +180,17 @@ img{
 }	
 
 img{
-	width: 40%;
-	height:40%;
+	width: 20%;
+	height:20%;
 }
 
 .address{
 
 		display: block;
-		width: 40%;
+		width: 20%;
 		height:20%;
-		margin-left: auto;
-		margin-right:auto;
+		margin-left: 25%;
+		margin-right:25%;
 		border-style: outset;
 		border-left: 50%;
 		border-bottom: 50%;
@@ -205,10 +210,10 @@ img{
 
 .statistics{
 		display: block;
-		width: 40%;
-		height: auto;
-		margin-left: auto;
-		margin-right: auto;
+		width: 30%;
+		height: 30%;
+		margin-left: 25%;
+		margin-right: 25%;
 
 		border-style: outset;
 		border-right: 50%;
