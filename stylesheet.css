@@ -8,8 +8,8 @@ body {
 h1{
 	color: black;
 	text-align: center;
-	margin-left: 25.5%;
-	margin-right: 25.5%
+	margin-left: 25%;
+	margin-right: 25%;
 
 
 
@@ -18,32 +18,33 @@ h1{
 h2{
 	color: black;
 	text-align: center;
-	margin-left: 25.5%;
-	margin-right:25.5%;
+	margin-left: 25%;
+	margin-right:25%;
 }
 
 h3{
 	color: black;
 	text-align:center;
-	margin-left: 25.5%;
-	margin-right: 25.5%;
+	margin-left: 25%;
+	margin-right: 25%;
 	font-family: arial;
 }	
 
 p{
 	font-family: arial;
 	text-align: center;
-	margin-left: 25.5%;
-	margin-right: 25.5%;
-	font-size: large;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-size: medium;
 	text-align: left;
 }
 
 
 a{
 	text-align: center;
-	margin-left: 26%;
-	margin-right: 26%;
+	margin-left: 30%;
+	margin-right: 30%;
+	font-size: small;
 }
 
 
@@ -58,8 +59,8 @@ img{
 
 .center {
 	 	 display: block;
-		 margin-left: 20%;
-		 margin-right: 20%;
+		 margin-left: auto;
+		 margin-right: auto;
 	 	 width: 60%;
 	 	 
 	 	 border-style: outset;
@@ -84,8 +85,8 @@ img{
 	 display: block;
 	 width: 30%;
 	 height: 30%;	
-	 margin-right: 35%;
-	 margin-left: 35%;
+	 margin-right: auto;
+	 margin-left: auto;
 	 
 	 border-style: outset;
 	 border-right: 50%;
@@ -109,8 +110,8 @@ img{
 
 		display: block;
 		width: 40%;
-		margin-left: 30%;
-		margin-right: 30%;
+		margin-left: auto;
+		margin-right: auto;
 		
 		border-style: outset;
 		border-right: 50%;
@@ -133,8 +134,8 @@ img{
 		display: block;
 		width: 40%;
 		height: auto;
-		margin-left: 30%;
-		margin-right: 30%;
+		margin-left: auto;
+		margin-right: auto;
 		
 		border-style: outset;
 		border-right: 50%;
@@ -144,6 +145,8 @@ img{
 		border-color: black;
 			
 }
+
+
 
 img{
 	width: 40%
@@ -166,16 +169,10 @@ img{
 		border-top:   50%;
 		border-bottom: 50%;
 		border-color: black;
+
 		
-		
 
-
-}
-
-
-
-	
-		
+}	
 
 img{
 	width: 40%;
@@ -187,8 +184,8 @@ img{
 		display: block;
 		width: 40%;
 		height:20%;
-		margin-left: 30%;
-		margin-right:30%;
+		margin-left: auto;
+		margin-right:auto;
 		border-style: outset;
 		border-left: 50%;
 		border-bottom: 50%;
@@ -197,9 +194,6 @@ img{
 		border-color: black;
 		
 }
-
-
-
 
 
 
@@ -213,8 +207,8 @@ img{
 		display: block;
 		width: 40%;
 		height: auto;
-		margin-left: 30%;
-		margin-right: 30%;
+		margin-left: auto;
+		margin-right: auto;
 
 		border-style: outset;
 		border-right: 50%;
