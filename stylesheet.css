@@ -1,6 +1,7 @@
 body {
 
 	background-color: gainsboro;
+
 }
 
 
@@ -9,6 +10,7 @@ h1{
 	text-align: center;
 	margin-left: 25.5%;
 	margin-right: 25.5%
+
 
 
 }
@@ -22,6 +24,10 @@ h2{
 
 h3{
 	color: black;
+	text-align:center;
+	margin-left: 25.5%;
+	margin-right: 25.5%;
+	font-family: arial;
 }	
 
 p{
@@ -30,6 +36,7 @@ p{
 	margin-left: 25.5%;
 	margin-right: 25.5%;
 	font-size: large;
+	text-align: left;
 }
 
 
@@ -164,16 +171,12 @@ img{
 
 
 }
-img{
-	width: 40%;
-	height: auto;
 
-}
 
 
 	
 		
-}
+
 img{
 	width: 40%;
 	height:40%;
